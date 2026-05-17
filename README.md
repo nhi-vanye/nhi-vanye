@@ -3,11 +3,6 @@ _A rare combination of strategic and hands-on tactical technical and management 
 _Inventor of 14 patents in Operating Systems, Software Repositories, Virtualization Management and Cybersecurity._
 
 
- |
-------:|:-----
-Location : |Oxfordshire, UK
-Citizenship : |UK & USA
-
 Core Competencies
 -----------------
 
